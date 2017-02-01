@@ -99,7 +99,7 @@
      <div class="container">
          <div class="row">
              <div class="col-lg-12 text-center">
-                 <h2 class="section-heading">Portfolio</h2>
+                 <h2 class="section-heading">How</h2>
                  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
              </div>
          </div>
@@ -235,7 +235,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
+                    <h2 class="section-heading">What People Says</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
